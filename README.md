@@ -1,4 +1,4 @@
-# ModelDrivenApps
+# Model Driven Apps
 
 The Model Driven Apps In A Day is an attempt to create an end to end Model Driven App Learning Experience. 
 
